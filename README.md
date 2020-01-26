@@ -6,3 +6,4 @@
 - our idea was to present the short story as a never-ending cycle in which the protagonist is caught
 - texts and images support the atmosphere
 
+![](https://github.com/Cadia004/Barn_Burning_final_project/blob/master/Startposition.png)
